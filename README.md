@@ -1,8 +1,10 @@
 ## Poll Results Visualizer using Data Science
 
-"Python" (https://img.shields.io/badge/Python-3.x-blue?logo=python)
-"Streamlit" (https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
-""GitHub" (https://img.shields.io/badge/GitHub-Profile-black?logo=github)" (https://github.com/Nikhatjahan85)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Nikhatjahan85)
 
 
 
