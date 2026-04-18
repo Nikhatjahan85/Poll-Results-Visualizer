@@ -140,8 +140,9 @@ Poll-Results-Visualizer/
 
 
 
-### 📌 Key Insights
-![Key Insights](images/dashboard_key_insights.png)
+### 📌 dashboard
+![dashboard](images/dashboard.png)
+
 
 
 
@@ -166,6 +167,9 @@ Poll-Results-Visualizer/
 
 
 
+
+### 📌 Key Insights
+![Key Insights](images/dashboard_key_insights.png)
 
 
 ## How It Works
